@@ -63,8 +63,6 @@ Welcome to my GitHub profile! I'm **705mmes**, a passionate developer navigating
 
 ![705mmes GitHub Stats](https://github-readme-stats.vercel.app/api?username=705mmes&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=705mmes&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=705mmes&layout=compact&theme=dark)
 
 ---
