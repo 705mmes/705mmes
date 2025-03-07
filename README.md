@@ -79,12 +79,5 @@ A personal assembly library project showcasing low-level programming and mastery
 
 ---
 
-## 📬 Get in Touch
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 42 Profile: [705mmes on 42](https://profile.intra.42.fr/users/705mmes)
-- Email: your-email@example.com
-
----
-
 Thanks for passing by and checking out my work! Feel free to reach out or check out my projects. 🚀
 
