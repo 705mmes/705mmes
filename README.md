@@ -67,15 +67,5 @@ Welcome to my GitHub profile! I'm **705mmes**, a passionate developer navigating
 
 ---
 
-## 🔥 Pinned Projects
-
-### [ft_transcendence](https://github.com/705mmes/ft_transcendence)
-A complete full-stack web application built during 42's curriculum, featuring real-time multiplayer games, authentication, and more.
-
-### [libasm](https://github.com/705mmes/libasm)
-A personal assembly library project showcasing low-level programming and mastery of ASM64.
-
----
-
 Thanks for passing by and checking out my work! Feel free to reach out or check out my projects. 🚀
 
