@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm **705mmes**, a passionate developer navigating the world of low-level programming, backend development, and system administration.
+Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the world of low-level programming, backend development, and system administration.
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm **705mmes**, a passionate developer navigating
 
 ---
 
-### 🗄️ Databases
+### 🟠 Databases
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>
@@ -46,11 +46,20 @@ Welcome to my GitHub profile! I'm **705mmes**, a passionate developer navigating
   <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge" height="40"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="40"/>
 </p>
 
 ---
 
-### ✍️ IDEs & Editors
+### ✨ Automation & Integration
+<p align="left">
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="40"/>
+</p>
+
+---
+
+### 🖍️ IDEs & Editors
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>
   <img src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge" height="40"/>
