@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="MacOS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/>
-  <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" title="Google Cloud Console" width="40" height="40"/>
+  <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" title="Google Cloud Console" height="40"/>
   <img src="https://c0.klipartz.com/pngpicture/84/464/gratis-png-logotipo-de-zapier-aplicacion-movil-de-producto-de-world-wide-web-automatizacion.png" title="Zapier" height="40"/>
   <img src="https://cdn.prod.website-files.com/619c916dd7a3fa284adc0b27/645d8594a40034e224dad8c5_645036bced983b2b1bd24b68_621524e23ea3592ee4b88432_8LtQ6NW2_400x400.jpeg" title="make" width="40" height="40"/>
 </p>
