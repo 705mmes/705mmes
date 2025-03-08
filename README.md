@@ -46,8 +46,6 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge" height="40"/>
-  <img src="https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge" height="40"/>
   <img src="https://symfony.com/logos/symfony_dynamic_02.svg" title="Symfony" height="40" width"40"/>
   <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png" title="Django" height="40" width"40"/>
 </p>
