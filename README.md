@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm **705mmes**, a passionate developer navigating the world of low-level programming, backend development, and system administration.
+Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the world of low-level programming, backend development, and system administration.
 
 ---
 
