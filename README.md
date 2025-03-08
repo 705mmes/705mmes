@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
 ### 🖍️ IDEs & Editors
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>
-  <img src="https://e7.pngegg.com/pngimages/381/887/png-clipart-shop-logo-phpstorm-logo-icons-logos-emojis-tech-companies.png" title="PHPStorm" width="40" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/381/887/png-clipart-shop-logo-phpstorm-logo-icons-logos-emojis-tech-companies.png" title="PHPStorm" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>
 </p>
 
