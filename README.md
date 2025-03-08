@@ -47,6 +47,7 @@ Welcome to my GitHub profile! I'm **705mmes**, a passionate developer navigating
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge" height="40"/>
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPCuPJYuQKZ1hOd_7SEK4X9Q72TOR2gHxqg&s" width="40" height="40"/>
 </p>
 
 ---
