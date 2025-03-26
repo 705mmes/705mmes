@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" title="CSS" width="40" height="40"/>
   <img src="https://img.shields.io/badge/ASM64-000000?style=for-the-badge&logo=amd&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" height="40"/>
 </p>
@@ -48,6 +49,8 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>
   <img src="https://symfony.com/logos/symfony_dynamic_02.svg" title="Symfony" height="40" width"40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" title="Django" height="40" width"40"/>
+  <img src="https://external-preview.redd.it/extending-burp-suite-for-fun-and-profit-the-montoya-way-v0-vpYU9MEsLXmD66JDsqojd1uko2AYzupqcczkbF7jQQg.jpg?auto=webp&s=ae02869bea2936865183de8ea125251b66cdd725" title="BurpSuite" height="40" width"40"/>
+  <img src="https://www.zaproxy.org/docs/api/images/logo.png" title="ZAP" height="40" width"40"/>
 </p>
 
 ---
