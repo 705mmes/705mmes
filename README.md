@@ -60,6 +60,7 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" title="PHPStorm" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/767px-Vimlogo.svg.png" title="Vim" width="40" height="40"/>
 </p>
 
 ---
