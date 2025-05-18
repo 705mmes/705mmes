@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" title="CSS" width="40" height="40"/>
   <img src="https://img.shields.io/badge/ASM64-000000?style=for-the-badge&logo=amd&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Makefile-000000?style=for-the-badge&logo=gnu&logoColor=white" height="40"/>
 </p>
 
 ---
@@ -36,8 +35,6 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="MacOS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/>
   <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" title="Google Cloud Console" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zapier_logo.svg/1200px-Zapier_logo.svg.png" title="Zapier" height="40"/>
-  <img src="https://cdn.prod.website-files.com/619c916dd7a3fa284adc0b27/645d8594a40034e224dad8c5_645036bced983b2b1bd24b68_621524e23ea3592ee4b88432_8LtQ6NW2_400x400.jpeg" title="make" width="40" height="40"/>
 </p>
 
 ---
