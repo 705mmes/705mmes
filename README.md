@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
 
 ### 🧑‍💻 Programming Languages
 <p align="left">
+  <img src="https://img.shields.io/badge/ASM64-000000?style=for-the-badge&logo=amd&logoColor=white" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C Language" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++98" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
@@ -15,7 +16,6 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer navigating the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" title="CSS" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/ASM64-000000?style=for-the-badge&logo=amd&logoColor=white" height="40"/>
 </p>
 
 ---
