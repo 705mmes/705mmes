@@ -60,7 +60,7 @@ I'm **Sam**, a passionate developer navigating the world of low-level programmin
 
 ---
 
-## My GitHub Stats!
+## My GitHub Stats
 
 ![705mmes GitHub Stats](https://github-readme-stats.vercel.app/api?username=705mmes&show_icons=true&theme=dark)
 
