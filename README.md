@@ -60,13 +60,5 @@ I'm **Sam**, a passionate developer navigating the world of low-level programmin
 
 ---
 
-## My GitHub Stats
-
-![705mmes GitHub Stats](https://github-readme-stats.vercel.app/api?username=705mmes&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=705mmes&layout=compact&theme=dark)
-
----
-
 Thanks for passing by and checking out my work! Feel free to reach out or check out my projects.
 
